@@ -1,4 +1,4 @@
-package com.sameer.musiclibrary;
+package com.naveen.musiclibrary;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
