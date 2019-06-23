@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MusicLibrary</string>
+    <string name="translation_name" translatable="false">translation_name</string>
+
 </resources>

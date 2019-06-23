@@ -134,11 +134,11 @@ public class MainActivity extends AppCompatActivity
                     }
 
                     if(object.has( "artworkUrl100" )) {
-                        musicModel.setArtworkUrl60( object.getString( "artworkUrl100" ) );
+                        musicModel.setArtworkUrl100( object.getString( "artworkUrl100" ) );
                     }
 
                     if(object.has( "collectionPrice" )) {
-                        musicModel.setArtworkUrl60( object.getString( "collectionPrice" ) );
+                        musicModel.setCollectionPrice( object.getInt( "collectionPrice" ) );
                     }
 
                     if(object.has( "releaseDate" )) {
